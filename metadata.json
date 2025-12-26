@@ -1,0 +1,7 @@
+{
+  "name": "Ink Critic - Traditional Chinese Painting Master",
+  "description": "An AI-powered critique tool for Traditional Chinese Painting (Guohua), providing professional analysis on brushwork, composition, and spirit resonance based on the 'Six Principles' of classical aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
